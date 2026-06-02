@@ -1,7 +1,7 @@
-# DiscordVoicePatcher
+# VoicePatcher
 
 ## Overview
-DiscordVoicePatcher is a native Node.js addon designed to patch or modify Discord's voice functionality. It is implemented in C++ and can be built as a Node.js native module for use in Electron or Node.js environments.
+VoicePatcher is a native Node.js addon designed to patch or modify Discord's voice functionality. It is implemented in C++ and can be built as a Node.js native module for use in Electron or Node.js environments.
 
 ## Features
 - Native C++ patcher for Discord voice components
